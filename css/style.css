@@ -1,0 +1,16 @@
+/* Global */
+@import './global/reset.css';
+
+/* Utilities */
+@import './utilities/colors.css';
+@import './utilities/components.css';
+
+/* Home */
+@import './home/about.css';
+@import './home/header.css';
+@import './home/info.css';
+@import './home/newsletter.css';
+@import './home/price.css';
+@import './home/product.css';
+@import './home/quality.css';
+@import './home/footer.css';

@@ -1,0 +1,14 @@
+.info-bg{
+    background: var(--color-2);
+}
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 10px;
+}
+
+.info a, .info p {
+    margin: 0 10px 10px 10px;
+}
